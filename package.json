@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/truffle-box/drizzle-box/issues"
   },
-  "homepage": "https://github.com/truffle-box/drizzle-box#readme",
+  "homepage": "https://carlosescom.github.com/ccc",
   "dependencies": {
     "drizzle-react": "^1.2.0",
     "openzeppelin-solidity": "^2.2.0",
