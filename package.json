@@ -26,6 +26,7 @@
     "drizzle-react": "^1.2.0",
     "gh-pages": "^2.1.1",
     "openzeppelin-solidity": "^2.2.0",
+    "react-scripts": "^3.3.0",
     "solc": "^0.5.7",
     "tinycolor2": "^1.4.1"
   },
