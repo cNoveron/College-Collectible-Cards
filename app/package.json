@@ -23,7 +23,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://carlosescom.github.io/ccc",
+  "homepage": "https://carlosescom.github.io/College-Collectible-Cards",
   "eslintConfig": {
     "extends": "react-app"
   },
