@@ -34,6 +34,8 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.0.28",
+    "dotenv": "^8.2.0",
     "truffle": "^5.1.6"
   }
 }
