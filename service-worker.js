@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ccc/precache-manifest.9a78de755e71935e1f0cc8921b415236.js"
+  "/College-Collectible-Cards/precache-manifest.fbc7c069a9676d7870527f9695a89e80.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ccc/index.html", {
+workbox.routing.registerNavigationRoute("/College-Collectible-Cards/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
