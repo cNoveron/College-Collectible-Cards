@@ -20,12 +20,9 @@
     "url": "https://github.com/truffle-box/drizzle-box/issues"
   },
   "dependencies": {
-    "drizzle-react": "^1.2.0",
-    "gh-pages": "^2.1.1",
+    "@truffle/hdwallet-provider": "^1.0.28",
     "openzeppelin-solidity": "^2.2.0",
-    "react-scripts": "^3.3.0",
-    "solc": "^0.5.7",
-    "tinycolor2": "^1.4.1"
+    "solc": "^0.5.7"
   },
   "devDependencies": {
     "prettier": "^1.16.4",
