@@ -4,3 +4,4 @@ app/src/contracts
 .DS_Store
 scripts
 app/node_modules
+.env
