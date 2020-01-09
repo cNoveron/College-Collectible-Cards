@@ -22,7 +22,6 @@ module.exports = {
           "https://ropsten.infura.io/v3/" + process.env.INFURA_APIKEY,
           0,
           10,
-          false,
           process.env.DERIVATION_PATH
         )
       },
